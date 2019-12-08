@@ -1,0 +1,3 @@
+-->pip install Tkinter
+--> roslaunch gui_event_logger gui_event_logger.launch
+-->Log file in ros log directory

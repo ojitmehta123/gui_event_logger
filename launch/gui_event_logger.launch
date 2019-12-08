@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="gui_event_logger" type="gui_event_logger.py" name="log_event" output="log" required = "True"/>
+</launch>
